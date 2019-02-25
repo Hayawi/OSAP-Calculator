@@ -1,5 +1,5 @@
 # OSAP Calculator
-## Created by Yahya Ismail
+### Created by Yahya Ismail
 An OSAP debt repayment calculator created using JavaEE and Apache Tomcat web server
 
 After starting up the Tomcat server, the webapp can be accessed by visiting:
